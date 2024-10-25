@@ -103,15 +103,6 @@
      color: var(--creme);
     }
     
-     .logo img{
-    
-        padding: 1.5rem;
-        border-radius: 50%;
-        height: 2.5rem;
-        width: 2.5rem;
-    
-     }
-    
      .titulo h1{
 
         color: black;
@@ -172,7 +163,6 @@
         background-color: var(--bege);
         margin-inline: auto;
         margin-block: 5rem;
-        /*border: 1px solid yellow;*/
         height: 5rem;
         width: 15rem;
         display: flex;
@@ -180,13 +170,8 @@
         align-items: center;
         border-radius: 1.5rem;
         box-shadow: 0px 0px 7px black;
-        transition: background-color 0.6s ease-in-out;
       }
 
       .creditos p{
         font-size: 1rem;
-      }
-
-      .creditos:hover {
-        background-color: var(--bege);
       }
